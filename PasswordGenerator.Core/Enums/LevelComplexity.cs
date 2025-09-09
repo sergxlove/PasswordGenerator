@@ -1,4 +1,4 @@
-﻿namespace PasswordGenerator.Models.Enums
+﻿namespace PasswordGenerator.Core.Enums
 {
     public enum LevelComplexity
     {
