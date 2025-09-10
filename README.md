@@ -28,3 +28,7 @@ The form has a minimalistic style, to generate a password, you need to click the
 
 ## Photo review
 
+[<img src="https://github.com/sergxlove/PasswordGenerator/blob/master/Images/mainWindow.png?raw=true" 
+      alt="screenProgram" 
+      style="width: 400px; height: 400px;" />](https://github.com/sergxlove/PasswordGenerator)
+
